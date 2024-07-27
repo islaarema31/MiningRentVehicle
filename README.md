@@ -5,7 +5,7 @@ Website monitoring penyewaan alat berat.
 ## **How to Use** 
 1. Clone the repository
 
-    ```git clone https://github.com/AgungA1/NickelTransport-Monitor.git```
+    ```git clone https://github.com/islaarema31/MiningRentVehicle.git```
 
 
 2. Switch to the repo folder
